@@ -1,16 +1,17 @@
-# using_rive
+# Using Rive
 
-A new Flutter project.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+[![Flutter](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-flutter.svg)](https://flutter.dev/)
+[![Dart](https://amandacleto.github.io/images-for-projects/public/images/github-readme/icon-dart.svg)](https://dart.dev/)
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💡 Idea:
+This repository is meant to learn how to display a rive file in Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+## License
+This project is licensed under the [MIT] license - see the LICENSE.md file for more details.
